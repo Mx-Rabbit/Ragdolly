@@ -1,0 +1,33 @@
+{
+  "manifest": {
+    "author": "Mx_rabbit",
+    "version": "0.0.1",
+    "name": "Ragdolly",
+    "transparency_mode": 3
+  },
+  "background": {
+    "url": "https://media.discordapp.net/attachments/608066908977233966/1204877407291703377/Untitled634_20240207145230.png?ex=65d65487&is=65c3df87&hm=4e5fb0dcd5c37ef58861fc53bd475d6c6414a7868d6fd12e6ee888969405528b&3&hm=2661b60b7ae141e9e2ca8f45209e299ffb392130321a61ade54eb11d1a75409e&"
+  },
+  "simple_colors": {
+    "input_background": -12357190
+  },
+  "colors": {
+    "primary_dark_360": -5323812,
+    "primary_dark_200": -6645799,
+    "primary_700": -16178876,
+    "uikit_settings_item_text_color_light": -13668396,
+    "white_500": -1690572,
+    "primary_dark_330": -6340552,
+    "link": -2785923,
+    "primary_dark_800": -2603964,
+    "primary_dark_300": -1879707,
+    "uikit_settings_item_text_color_dark": -11579411,
+    "primary_dark_630": 1938595791,
+    "brand_new_260": -11643417,
+    "brand_500_alpha_20": 1305433172
+  },
+  "drawable_tints": {
+    "drawable_overlay_channels_selected_dark": -11711559,
+    "ic_mobile": -749681
+  }
+}
