@@ -1,0 +1,60 @@
+{
+  "manifest": {
+    "author": "Bunny",
+    "version": "0.0.1",
+    "name": "Spring ragdolly",
+    "transparency_mode": 3
+  },
+  "background": {
+    "portain": {
+      "front": {
+        "size": "cover",
+        "position": "center center",
+        "color": "#00000000",
+        "repeat": "no-repeat",
+        "mine": "png"
+      },
+      "back": {
+        "size": "cover",
+        "position": "center center",
+        "color": "#00000000",
+        "repeat": "no-repeat",
+        "mine": "png"
+      }
+    },
+    "landscape": {
+      "front": {
+        "size": "cover",
+        "position": "right bottom",
+        "color": "#00000000",
+        "repeat": "no-repeat",
+        "mine": "png"
+      },
+      "back": {
+        "size": "cover",
+        "position": "center center",
+        "color": "#00000000",
+        "repeat": "no-repeat",
+        "mine": "png"
+      }
+    }
+  },
+  "simple_colors": {
+    "input_background": -8885050
+  },
+  "colors": {
+    "primary_dark_360": -10217705,
+    "white_500": -10217705,
+    "primary_dark_200": -12907764,
+    "link": -9876882,
+    "primary_dark_300": -11913106,
+    "primary_dark_660": -10859873,
+    "primary_700": -10975837,
+    "primary_dark_400": -15127275,
+    "uikit_settings_item_text_color_dark": -10867661
+  },
+  "drawable_tints": {
+    "drawable_overlay_channels_selected_dark": -6982442,
+    "ic_sidebar_pins_off_dark_24dp": -9008667
+  }
+}
